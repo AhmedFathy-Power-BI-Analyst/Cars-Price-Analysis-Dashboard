@@ -18,7 +18,7 @@ This Power BI project explores various aspects of car pricing data to provide in
 
 ## Data Sources
 
-The analysis is based on a dataset sourced from [insert source here](https://www.kaggle.com/datasets/muhammedzidan/car-prices-market), which includes comprehensive information about car listings, including make, model, year, mileage, price, and other relevant attributes.
+The analysis is based on a dataset sourced from [Kaggle.com](https://www.kaggle.com/datasets/muhammedzidan/car-prices-market), which includes comprehensive information about car listings, including make, model, year, mileage, price, and other relevant attributes.
 
 ## Usage
 
